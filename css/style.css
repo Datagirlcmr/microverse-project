@@ -6,3 +6,8 @@
   display: flex;
   justify-content: center;
 }
+main {
+  border: blue 5px solid;
+  border-radius: 20px;
+  margin: 5px;
+}
