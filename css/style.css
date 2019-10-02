@@ -11,3 +11,15 @@ main {
   border-radius: 20px;
   margin: 5px;
 }
+p, h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: #FFF;
+}
+body{
+  background-color: blue !important;
+}
+#tribute-info a{
+justify-content: center;
+margin-right: 150px;
+}
